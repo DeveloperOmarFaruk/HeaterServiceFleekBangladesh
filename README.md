@@ -10,18 +10,17 @@ Heater Service Management Web Design and Software Solution Agency Landing Page.
 ### `Technology Use`
 #
 1. React JS
-2. React Vite
-3. React Hooks
-4. Event Handlers
-5. Arrow Functions
-6. React Testify
-7. EmailJs-com
-8. Swiper
-9. Font Awesome
-10. Google Fonts
-11. HTML5
-12. CSS3
-13. Bootstrap5
+2. React Hooks
+3. Event Handlers
+4. Arrow Functions
+5. React Testify
+6. EmailJs-com
+7. Swiper
+8. Font Awesome
+9. Google Fonts
+10. HTML5
+11. CSS3
+12. Bootstrap5
 
 #
 ### `Project Deploy`
